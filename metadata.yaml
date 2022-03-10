@@ -1,11 +1,16 @@
 _repo: The-Negro-in-Tennessee-1790-1865-University-of-Texas-Bulletin-No-2205-February-1-1922_67473
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 67473-h/images/cover.jpg
 creator:
   author:
     agent_name: Patterson, Caleb Perry
     gutenberg_agent_id: '54284'
     url: http://www.gutenberg.org/2009/agents/54284
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/67473#The-Negro-in-Tennessee-1790-1865-University-of-Texas-Bulletin-No-2205-February-1-1922
 gutenberg_issued: '2022-02-22'
 identifiers:
   gutenberg: '67473'
